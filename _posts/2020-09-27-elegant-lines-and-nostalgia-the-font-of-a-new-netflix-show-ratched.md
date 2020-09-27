@@ -18,7 +18,7 @@ The same thing could be said about the typography chosen for title of the show. 
 
 In addition, the typeface chosen has a hint of mystery around it, and the elegant swirls and lines in the font going up and down are a nod to the show overall which has plenty of suspenseful moments but radiates elegance and poise similarly to character of Mildred Ratched herself.
 
-![Netflix Image ](../uploads/mv5bmdjizge5nzytzgu3zi00ndqwlwfhmjatntm0mdm2ztljmjazxkeyxkfqcgdeqxvymtkxnjuynq-._v1_.jpg)
+![Netflix Image ](../uploads/74b3d2d379915a0cd2755be202543a0a.jpg)
 
 Moreover, when looking at the complete poster of the show the typeface instantly captures attention because of its white colour, which contrasts with the overall dark imagery. The choice of the font colour is also quite interesting. The colour white is often associated with innocence which offers a disparity with how the character of Nurse Ratched is usually perceived in popular culture. However, the choice of colouring is indicating to the twisted nature of the show and Mildred Ratched, hinting to the audience that things are not always the way they appear to be.
 
