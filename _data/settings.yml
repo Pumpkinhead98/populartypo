@@ -5,7 +5,7 @@ header_text: ""
 footer_text: "Copyright 2020 Ugne Matuliauskaite "
 header_feature_image: ../uploads/png.png
 bannerheight: 100vh
-logo: /uploads/logo.jpg
+logo: ../uploads/tf.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: true
