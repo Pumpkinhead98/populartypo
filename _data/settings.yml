@@ -4,7 +4,7 @@ description: "This is a blog about typography I find interesting in popular
 header_text: ""
 footer_text: "Copyright 2020 Ugne Matuliauskaite "
 header_feature_image: ../uploads/png.png
-bannerheight: 100vh
+bannerheight: 10vmax
 logo: ../uploads/tf.png
 favicon: /uploads/favicon.ico
 gridlayout: false
