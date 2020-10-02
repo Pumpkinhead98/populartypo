@@ -3,8 +3,8 @@ description: "This is a blog about typography I find interesting in popular
   culture (movies/TV shows, fashion, books etc.) "
 header_text: ""
 footer_text: "Copyright 2020 Ugne Matuliauskaite "
-header_feature_image: ../uploads/png.png
-bannerheight: 100vh
+header_feature_image: ../uploads/try-3.jpg
+bannerheight: 20vmax
 logo: ../uploads/tf.png
 favicon: /uploads/favicon.ico
 gridlayout: false
