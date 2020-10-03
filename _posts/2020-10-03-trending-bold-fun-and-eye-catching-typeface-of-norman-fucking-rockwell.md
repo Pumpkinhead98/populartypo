@@ -2,7 +2,7 @@
 layout: post
 title: 'TRENDING: Bold, fun and eye-catching typeface of "Norman Fucking Rockwell" '
 date: 2020-10-03T15:24:14.089Z
-header_feature_image: ../uploads/nfr.jpg
+header_feature_image: ../uploads/skjermbilde-2020-09-28-kl.-22.08.58.png
 comments: true
 tags:
   - Music
