@@ -4,7 +4,7 @@ title: "About "
 subtitle: "Me and my blog "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/website-headliner.png
+header_feature_image: ../uploads/skjermbilde-2020-10-04-kl.-16.58.27.png
 published: true
 tags: null
 description: null
