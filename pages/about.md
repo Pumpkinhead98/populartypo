@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Some bits and bops about me and my blog "
-subtitle: ""
+title: "About "
+subtitle: "Some bits and bops about me and my blog "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/skjermbilde-2020-10-04-kl.-16.58.11.png
+header_feature_image: ../uploads/skjermbilde-2020-10-04-kl.-16.57.56.png
 published: true
 tags: null
 description: null
