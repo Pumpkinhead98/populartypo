@@ -5,8 +5,8 @@ header_text: ""
 footer_text: "Copyright 2020 Ugne Matuliauskaite "
 header_feature_image: ../uploads/design-uten-navn.jpg
 bannerheight: 20vmax
-logo: ../uploads/tf.png
-favicon: /uploads/favicon.ico
+logo: ../uploads/4th-.png
+favicon: ../uploads/4th-.png
 gridlayout: false
 fixednavbar: true
 upzoom: true
