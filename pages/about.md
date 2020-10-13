@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About "
-subtitle: "Me and my blog "
+subtitle: " My blog "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ../uploads/website-headliner.png
@@ -10,9 +10,7 @@ tags: null
 description: null
 show: true
 ---
-### ABOUT ME:
 
-Hello, my name is Ugne and I`m a second - year Media, Journalism and Publishing student at Oxford Brookes. I am so far undecided whether my interests lie with the publishing or journalism pathways of my course and therefore like to try out as many activities, as possible, in both fields. 
 
 ### ABOUT MY BLOG:
 
@@ -26,7 +24,7 @@ The favicon for the website is just a simplified version of the logo. I removed 
 
 ![](../uploads/icon.png)
 
-The header image was created by me to reflect the main areas in which typography will be explored in my blog such as books, fashion, TV and music. In addition, I added the website name in the font used for TV series “Friends”  to underline the theme of the blog. As the TV has long since become a staple of popular culture. The black background was chosen to make the images and the title stand out more.
+The header image was created by me to reflect the main areas in which typography will be explored in my blog such as books, fashion, TV and music. In addition, I added the website name in the font used for TV series “Friends”  to underline the theme of the blog. As the TV show has long since become a staple of popular culture. The black background was chosen to make the images and the title stand out more.
 
 ![](../uploads/skjermbilde-2020-09-29-kl.-19.49.50.png)
 
