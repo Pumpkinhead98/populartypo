@@ -7,7 +7,7 @@ header_feature_image: ../uploads/design-uten-navn.jpg
 bannerheight: 20vmax
 logo: ../uploads/7th-.png
 favicon: ../uploads/icon.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
 items: []
