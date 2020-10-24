@@ -11,7 +11,7 @@ tags:
 ---
 *"Enola Holmes"* typography is an enigmatic, newspaper cutting style font which offers an interesting riddle fitting with the movie`s storyline and its main characters.
 
-Netflix`s *"Enola Holmes"* has a truly creative typeface. It seems to imitate a newspaper cutting or ransom note style fonts, therefore there\`s a use of both serif and sans-serif letters in the title. Furthermore, looking closer to the title the surrounding rectangle looks like a paper clipping strengthening the idea that the font was used to imitate a newspaper cutting or ransom note. There seems to be a variety of sans serif and serif fonts, most letters have different width, some of them are bold and the others seem more delicate leading to a conclusion that there is a mixture of high and low contrast letters. The font used for the movie\`s title is a custom made one, which seems to be a mix of **Blackmai**l and **Drunken Showe**r fonts:
+Netflix`s *"Enola Holmes"* has a truly creative typeface. It seems to imitate a newspaper cutting or ransom note style fonts, therefore there\`s a use of both serif and sans-serif letters in the title. Furthermore, looking closer to the title the surrounding rectangle looks like a paper clipping strengthening the idea that the font was used to imitate a newspaper cutting or ransom note. There seems to be a variety of sans serif and serif fonts, most letters have different width, some of them are bold and the others seem more delicate leading to a conclusion that there is a mixture of high and low contrast letters. The font used for the movie`s title is a custom made one, which seems to be a mix of **Blackmai**l and **Drunken Showe**r fonts:
 
 ![](../uploads/skjermbilde-2020-10-10-kl.-14.47.19.png)
 
@@ -22,14 +22,6 @@ In addition, because of its "cut and paste" nature the font appears to be more d
 ![“Enola Holmes” poster (IMDB) ](../uploads/skjermbilde-2020-10-09-kl.-16.56.51.png)
 
 Moreover, when looking at the complete movie poster, the design choices for the title seem to attract even more attention. The colour of the font is black giving a nod to an Arthur Conan Doyle`s classic novel "*Sherlock Holmes*", as black is usually suggested to be "classic" colour in fashion. However, the choice of typography and the choice of bold, blue and yellow, coloured rectangles suggests another angle to a Sherlock Holmes story we all know and love - just from the first glance, at a title and its design, most audience can sense that Netflix`s “*Enola Holmes*” will offer something new and exciting to the beloved classic. 
-
-
-
-
-
-
-
-
 
 References:
 
