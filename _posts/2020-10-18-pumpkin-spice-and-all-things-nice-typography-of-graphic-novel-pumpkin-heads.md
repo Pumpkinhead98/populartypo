@@ -9,4 +9,4 @@ tags:
   - Books
   - Design
 ---
-![Cover of "Pumpkin Heads" (My personal copy photo) ](../uploads/121741304_341997237065457_3605417292086655291_n.jpg)
+This will be a post about graphic novel pumpkin heads
