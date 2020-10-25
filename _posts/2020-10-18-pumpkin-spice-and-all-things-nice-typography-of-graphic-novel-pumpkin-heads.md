@@ -3,7 +3,7 @@ layout: post
 title: 'Pumpkin Spice and All Things Nice: Typography of graphic novel "Pumpkin
   Heads" '
 date: 2020-10-23T18:30:46.005Z
-header_feature_image: ../uploads/saofsot.jpg
+header_feature_image: ../uploads/122539138_1716235348539529_2483501893664782645_n.jpg
 comments: true
 tags:
   - Books
