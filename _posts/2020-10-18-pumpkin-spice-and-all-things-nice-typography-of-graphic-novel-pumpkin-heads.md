@@ -8,6 +8,7 @@ comments: true
 tags:
   - Books
   - Design
+  - Culture
 ---
 The typography of Rainbow Rowell`s *"Pumpkin Heads"* is big, bold and dynamic, perfectly reflecting the youthfulness of the graphic novel and its characters, promising a cosy story for cold autumn evening reads.
 
