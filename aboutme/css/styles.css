@@ -1,7 +1,207 @@
+/* ---- General Styles ---- */
 body {
-
+	margin: 0px;
+	text-align: center;
+	font-family: "Avenir","Helvetica Neue", "Arial", sans-serif;
+	font-weight: 400;
 }
 
-h1 {
-  
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 700px;
+	width: 100%;
+	background-image: url("img/shakespear1.jpg");
+	background-size: cover;
+  background-position: center;
 }
+
+/* Profile Picture */
+.profile_picture_circle {
+	padding-top: 150px;
+}
+
+.profile_picture {
+	background-image: url("img/me.jpeg");
+	background-position: center;
+	width: 160px;
+	height: 160px;
+	border: #FEC28E 5px solid;
+	border-radius: 50%;
+	background-size: 105%;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: white;
+	text-align: center;
+	font-size: 19px;
+	margin-top: 0px;
+}
+
+/* Social Icons */
+.social_icon {
+	margin: 5px;
+}
+
+.social_icon img {
+	width: 30px;
+}
+
+.social_icon:hover {
+	opacity: 0.5;
+}
+
+
+/* ---- Banner ---- */
+.bits_and_bops_banner {
+	background-color: #FEC28E;
+}
+
+.bits_and_bops_text {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+
+
+/* ---- Facts ---- */
+/* Main Text */
+.facts{
+	background-color: #F6F0ED;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.facts h1 {
+ color: #FEC28E;
+ text-align:center;
+ font-size: 50px;
+ font-weight: 400;
+ margin-bottom: auto;
+ padding-top: 30px;
+ padding-bottom: 0px;
+
+ }
+.facts p {
+	text-align:justify;
+	color: #515151;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 50px;
+
+	max-width: 760px;
+	margin: auto;
+	padding-top:30px;
+  padding-bottom: 0px;
+}
+
+
+
+/* Text Highlight Colour */
+.highlight {
+	color: #FEC28E;
+	font-weight: 500;
+}
+
+/* Fact Links */
+.fact_link {
+	color: #FEC28E;
+	font-weight: 500;
+	text-decoration: none;
+  text-align: center;
+	border-bottom: 3px solid #A9B8B2;
+	padding: 0px 2px 0px 2px;
+}
+
+.fact_link:hover {
+	color: #FEC28E;
+	background-color: #E8757F;
+	padding: 0px 2px 0px 2px;
+}
+
+/* Pictures */
+.fact_image {
+	max-width: 400px;
+	border: #FEC28E solid 10px;
+
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+/* Book List */
+.book_list {
+	font-family: "Avenir", "Helvetica Neue", "Arial", sans-serif;
+	text-align: center;
+	color: #FEC28E;
+	font-size: 30px;
+	font-weight: 300;
+	list-style-type: none;
+  line-height: 45px;
+
+	padding: 0;
+	margin: 0;
+	padding-top: 20px;
+	margin-top: 0px;
+}
+
+.book_list li {
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+
+/* --- Tell Me About You --- */
+.back_to_blog_section {
+	background-color: #FEC28E;
+	width: 100%;
+}
+
+
+
+
+/* Back to Blog */
+.back_to_blog_link {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 80px;
+	padding-top: 70px;
+}
+
+.back_to_blog_link a {
+	color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.back_to_blog_link a:hover {
+	color: #E8757F;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
+
