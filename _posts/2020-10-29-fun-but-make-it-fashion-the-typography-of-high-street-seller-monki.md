@@ -16,7 +16,7 @@ The font choice in itself is quite fascinating since this typeface seems to exhi
 
  Furthermore, the colour of the typeface is an interesting design decision. It is a deep cyan/deep cerulean shade which looks black from afar. The colour choice adds to the simplistic, modern aesthetic of the Monki logo as well as fits nicely with the brand as a whole reflecting its authenticity. 
 
-![Colour of Monki font ](../uploads/skjermbilde-2020-10-29-kl.-23.48.11.png)
+![](../uploads/skjermbilde-2020-10-29-kl.-23.48.11.png)
 
 Looking at typographical design choices for the Monki logo we can see the brands core values and aesthetics being reflected. Monki mixes [Scandinavian minimalism](https://hmgroup.com/brands/monki.html) with creative and fun street style which can be seen reflect in minimalistic logo with fun stylizations on first and last letters. 
 
