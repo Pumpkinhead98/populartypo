@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun, but make it fashion: typeface of high street seller Monki "
-date: 2020-10-24T22:22:44.179Z
+date: 2020-10-27T23:22:00.000Z
 header_feature_image: ../uploads/skjermbilde-2020-10-17-kl.-12.51.16.png
 comments: false
 tags:
@@ -26,12 +26,4 @@ Moreover, the choice to make the logo in all capital letters is also worth looki
 
 Overall the typeface of *Monki* showcases both the brands quirkiness as well as its key values helping to create a fun and fashionable logo. 
 
-
-
-
-
-References: 
-
-* <!--\[if !supportLists]-->·      <!--\[endif]-->Hmgroup.com. (2010). *H&M group | Monki*. \[online] Available at: https://hmgroup.com/brands/monki.html \[Accessed 20 Oct. 2020].
-* <!--\[if !supportLists]-->·      <!--\[endif]-->Usborne, S. (2014). *How did “hipster sans serif” become the defining font of 2014?* \[online] The Independent. Available at: https://www.independent.co.uk/life-style/fashion/features/how-did-hipster-sans-serif-become-defining-font-2014-9904544.html \[Accessed 23 Oct. 2020].
-* <!--\[if !supportLists]-->·      <!--\[endif]-->www.monki.com. (n.d.). *About us*. \[online] Available at: https://www.monki.com/we-are-monki/we-are-monki/the-monki-tale/ \[Accessed 20 Oct. 2020].
+References:
