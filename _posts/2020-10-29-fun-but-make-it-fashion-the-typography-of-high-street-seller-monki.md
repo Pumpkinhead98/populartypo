@@ -3,7 +3,7 @@ layout: post
 title: "Fun, but make it fashion: the typography of high street seller Monki"
 date: 2020-10-29T22:31:00.554Z
 header_feature_image: ../uploads/skjermbilde-2020-10-17-kl.-12.51.16.png
-comments: true
+comments: false
 tags:
   - Design
   - Retail
@@ -37,9 +37,5 @@ Besides their empowering messages on body positivity and self-love Monki is a br
 References:
 
 * <!--\[if !supportLists]-->·      <!--\[endif]-->Hmgroup.com. (2010). *H&M group | Monki*. \[online] Available at: https://hmgroup.com/brands/monki.html \[Accessed 20 Oct. 2020].
-
-
 * <!--\[if !supportLists]-->·      <!--\[endif]-->Usborne, S. (2014). *How did “hipster sans serif” become the defining font of 2014?* \[online] The Independent. Available at: https://www.independent.co.uk/life-style/fashion/features/how-did-hipster-sans-serif-become-defining-font-2014-9904544.html \[Accessed 23 Oct. 2020].
-
-
 * <!--\[if !supportLists]-->·      <!--\[endif]-->www.monki.com. (n.d.). *About us*. \[online] Available at: https://www.monki.com/we-are-monki/we-are-monki/the-monki-tale/ \[Accessed 20 Oct. 2020].
