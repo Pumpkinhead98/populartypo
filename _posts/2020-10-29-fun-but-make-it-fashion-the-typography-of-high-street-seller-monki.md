@@ -4,6 +4,9 @@ title: "Fun, but make it fashion: the typography of high street seller Monki"
 date: 2020-10-29T22:31:00.554Z
 header_feature_image: ../uploads/skjermbilde-2020-10-17-kl.-12.51.16.png
 comments: true
+tags:
+  - Design
+  - Retail
 ---
 Do typography like a boss: how Monki brought hipster-like Helvetica font to their quirky fashion brand
 
