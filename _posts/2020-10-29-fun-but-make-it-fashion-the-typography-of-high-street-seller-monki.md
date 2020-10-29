@@ -25,5 +25,3 @@ Moreover, the choice to make the logo in all capital letters is also worth looki
 Besides their empowering messages on body positivity and self-love Monki is a brand that is commited to be a sustainable fashion brand that brings new trends to attention. The popular Helvetica family typography used for the logo has a hipster-like feeling which suits this idea of a trend-forward brand and together with simplistic design appeals to younger audiences.
 
  Overall the typeface of Monki showcases both the brands quirkiness as well as its key values helping to create a fun and fashionable logo.
-
-References:
