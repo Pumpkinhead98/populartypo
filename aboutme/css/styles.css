@@ -10,7 +10,7 @@ body {
 .introduction_section {
 	height: 700px;
 	width: 100%;
-	background-image: url("img/shakespear1.jpg");
+	background-image: url("../img/shakespear1.jpg");
 	background-size: cover;
   background-position: center;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .profile_picture {
-	background-image: url("img/me.jpeg");
+	background-image: url("../img/me.jpeg");
 	background-position: center;
 	width: 160px;
 	height: 160px;
