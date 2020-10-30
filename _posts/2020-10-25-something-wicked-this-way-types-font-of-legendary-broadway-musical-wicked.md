@@ -10,4 +10,4 @@ tags:
   - Design
   - Music
 ---
-To celebrate Halloween here`s an analysis of the typeface of Broadway´s "Wicked"
+To celebrate Halloween here`s an analysis of the typeface of Broadway´s "Wicked
