@@ -4,6 +4,10 @@ title: 'Something Wicked This Way Types: Font That Became the Face of Legendary
   Broadway Musical "Wicked"'
 date: 2020-11-08T10:00:48.446Z
 comments: true
+tags:
+  - Design
+  - Culture
+  - Music
 ---
 Read on to see how witches, spells and catchy songs were embodied in this wickedly enchanting font....
 
@@ -28,8 +32,6 @@ In addition, design of the complete poster further confirms this. The "good" wit
 Overall, the bold serif font, and clever colour choices of typographical and graphical design for the 2003 Broadway musical *"Wicked"* are great at showcasing the main characters and themes both explicitly and implicitly offering an enchanting story for the audiences. 
 
 ![Wicked Poster (Font Meme) ](../uploads/wicked-musical-font.png)
-
-
 
 **REFERENCES:** 
 
