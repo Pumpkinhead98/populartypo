@@ -21,9 +21,7 @@ In addition, because of its "cut and paste" nature the font appears to be more d
 
 ![“Enola Holmes” poster (IMDB) ](../uploads/skjermbilde-2020-10-09-kl.-16.56.51.png)
 
-Moreover, when looking, at the complete movie poster, the design choices for the title seem to attract even more attention. The colour of the font is black, giving a nod to an Arthur Conan Doyles classic novel "Sherlock Holmes" as black is usually suggested to be "classic" colour in fashion. However, the choice of typography and the choice of bold, blue and yellow, coloured rectangles suggests another angle to a Sherlock Holmes story we all know and love - just from the first glance, at the title and its design, most audience can sense that Netflixs "Enola Holmes" will offer something new and exciting to the beloved classic. 
-
-
+Moreover, when looking, at the complete movie poster, the design choices for the title seem to attract even more attention. The colour of the font is black, giving a nod to an Arthur Conan Doyles classic novel *"Sherlock Holmes"* as black is usually suggested to be "classic" colour in fashion. However, the choice of typography and the choice of bold, blue and yellow, coloured rectangles suggests another angle to a Sherlock Holmes story we all know and love - just from the first glance, at the title and its design, most audience can sense that Netflixs *"Enola Holmes"* will offer something new and exciting to the beloved classic. 
 
  References:
 
