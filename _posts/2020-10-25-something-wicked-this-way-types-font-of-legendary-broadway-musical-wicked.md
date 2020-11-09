@@ -32,7 +32,4 @@ Overall, the bold serif font, and clever colour choices of typographical and gra
 
 ![Wicked Poster (Font Meme) ](../uploads/wicked-musical-font.png)
 
-**REFERENCES:** 
-
-* <!--\[if !supportLists]-->·      <!--\[endif]-->Pokedoff, Lauren. “What Is ‘Wicked’ Truly About?” *Show-Score.com*, 28 Feb. 2017, [www.show-score.com/blog/what-is-wicked-truly-about. Accessed 25 Oct. 2020](http://www.show-score.com/blog/what-is-wicked-truly-about.%20Accessed%2025%20Oct.%202020).
-* <!--\[if !supportLists]-->·      <!--\[endif]-->“Wicked (Musical) Font.” *Fontmeme.com*, fontmeme.com/wicked-musical-font/. Accessed 25 Oct. 2020
+**REFERENCES:**
