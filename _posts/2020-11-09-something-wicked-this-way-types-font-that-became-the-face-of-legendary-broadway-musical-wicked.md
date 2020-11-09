@@ -3,6 +3,7 @@ layout: post
 title: 'Something Wicked This Way Types: Font That Became the Face of Legendary
   Broadway Musical "Wicked"'
 date: 2020-11-08T10:00:48.446Z
+header_feature_image: ../uploads/newwicked.jpg
 comments: true
 tags:
   - Design
