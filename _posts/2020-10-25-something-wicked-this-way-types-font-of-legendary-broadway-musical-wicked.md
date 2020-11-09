@@ -28,13 +28,9 @@ The typography of *"Wicked"* is as enchanting as the main storyline. Bold, all
 
 When looking at the complete picture of the musical poster, the design choices seem to reveal even more fascinating things about the story. The colour of the font for the title *"Wicked"* is white; which is an interesting choice in itself as white is usually associated with innocence and vulnerability. This reflects the complexity of the main characters and suggests a double meaning where perhaps what is seen as wicked is truly not i.e heroes and villains switch places. In addition, design of the complete poster further confirms this. The "good" witch Glinda in white seems to be whispering something to the "wicked" witch Elphaba dressed in black; the colour choice for the characters, of black and white, illustrates the traditional antagonistic forces of "good vs. evil" however the title colouring implicates a double meaning. 
 
- 
-
 Overall, the bold serif font, and clever colour choices of typographical and graphical design for the 2003 Broadway musical *"Wicked"* are great at showcasing the main characters and themes both explicitly and implicitly offering an enchanting story for the audiences. 
 
 ![Wicked Poster (Font Meme) ](../uploads/wicked-musical-font.png)
-
-
 
 **REFERENCES:** 
 
