@@ -10,4 +10,4 @@ tags:
   - Cinema
   - Fonts
 ---
-Take a look an see how quirky, bold and fun combination of sans serif and script fonts was used for the new DC comic "Birds of Prey" adaption.
+ Bold sans serifs and quirky scripts – a perfect combination typeface for the new DC comic adaptation: *“Birds of Prey: Fantabulous Emancipation of One Harley Quinn”.*
