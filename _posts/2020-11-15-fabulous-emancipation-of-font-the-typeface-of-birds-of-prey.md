@@ -10,4 +10,4 @@ tags:
   - Cinema
   - Fonts
 ---
- Bold sans serifs  and quirky scripts - a perfect combination  for the new DC comic "Birds of Prey: Fantabulous Emancipation of One Harley Quinn" adaption.
+ Bold sans serifs and quirky scripts – a perfect combination typeface for the new DC comic adaptation: *“Birds of Prey: Fantabulous Emancipation of One Harley Quinn”.*
