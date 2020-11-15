@@ -32,9 +32,4 @@ Overall, the creators of the poster have done a great job creating a design that
 
 ![Source (IMDB)](../uploads/skjermbilde-2020-11-08-kl.-18.13.51.png)
 
-References: 
-
-* <!--\[if !supportLists]-->·      <!--\[endif]-->“‘Birds of Prey.’” *Pentagram*, <https://www.pentagram.com/work/birds-of-prey>  Accessed 6 Nov. 2020.
-* <!--\[if !supportLists]-->·      <!--\[endif]-->‌“‘Birds of Prey’ — Story.” *Pentagram*, <https://www.pentagram.com/work/birds-of-prey/story> Accessed 6 Nov. 2020.
-* <!--\[if !supportLists]-->·      <!--\[endif]-->‌Brewer, Jenny. “Behind Pentagram’s Graphic Identity for DC’s Harley Quinn Film, Birds of Prey.” *Www.Itsnicethat.com*, 6 Feb. 2020, <https://www.itsnicethat.com/news/pentagram-emily-oberman-harley-quinn-birds-of-prey-graphic-design-060220>Accessed 6 Nov. 2020.
-* <!--\[if !supportLists]-->·      <!--\[endif]-->‌Hodson, Christina. “Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn.” *IMDb*, 5 Feb. 2020, <https://www.imdb.com/title/tt7713068/>Accessed 6 Nov. 2020.
+References:
